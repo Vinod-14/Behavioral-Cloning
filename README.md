@@ -26,7 +26,7 @@ This project aims to develop a neural network model capable of mimicking human d
 - scikit-image
 - imgaug
 
-Install dependencies using `pip install -r requirements.txt`.
+
 
 ## Step-by-Step Guide
 ### 1. Dataset Preparation
